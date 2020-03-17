@@ -1,6 +1,6 @@
 /**
      * @param Create$MODEL_NAME$APIRequest $request
-     * @return Response
+     * @return \Illuminate\Http\JsonResponse|Response
      *
      * @SWG\Post(
      *      path="/$MODEL_NAME_PLURAL_CAMEL$",
