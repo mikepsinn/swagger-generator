@@ -1,6 +1,7 @@
 /**
      * @param int $id
      * @return \Illuminate\Http\JsonResponse|Response
+     * @throws \Exception
      *
      * @SWG\Delete(
      *      path="/$MODEL_NAME_PLURAL_CAMEL$/{id}",
